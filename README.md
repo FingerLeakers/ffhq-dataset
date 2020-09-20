@@ -172,3 +172,11 @@ To get your photo removed from the Flickr-Faces-HQ dataset:
     - Get the photo removed from Flickr altogether.
 2. Contact [researchinquiries@nvidia.com](mailto:researchinquiries@nvidia.com). Please include your Flickr username in the email.
 3. We will check the status of all photos from the particular user and update the dataset accordingly.
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
